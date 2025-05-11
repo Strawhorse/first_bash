@@ -1,1 +1,6 @@
-First beginning use of Bash on linux
+First repo for practicing Bash
+
+Sources:
+https://arachnoid.com/linux/shell_programming.html
+https://www.learnshell.org/
+https://www.freecodecamp.org/news/bash-scripting-tutorial-linux-shell-script-and-command-line-for-beginners/
