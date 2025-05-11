@@ -1,6 +1,7 @@
 First repo for practicing Bash
 
 Sources:
+
 https://arachnoid.com/linux/shell_programming.html
 
 https://www.learnshell.org/
