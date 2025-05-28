@@ -49,4 +49,4 @@ echo ""
 echo "Report completed"
 
 echo "This script ran successfully"
-read junk
+exit 0
